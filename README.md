@@ -1,8 +1,8 @@
 # Social Media Website Django Project
-1. This project is developed using Django Framewrok and python.
-2. Its a dynamic website where multiple users can login and can be belonging to different groups.
-3. Users have the ability to join the respective groups/ create their own group also.
-4. Users can post anything in the respective groups so all the users belonging to that group can view the post( date, time and by whom ) 
+1. This project is developed using Django Framework and python.
+2. Its a dynamic website where multiple users can login and can belong to different groups.
+3. Users have the ability to join the respective groups/create their own group also.
+4. Users can post anything in the respective groups so all the users belonging to that group can view that post( date, time and by whom ) 
 5. Total members count in that specific group is also displayed.
 Here are some of the snippets of the website developed.
 
